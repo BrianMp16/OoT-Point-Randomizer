@@ -1,0 +1,10 @@
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\obj\Debug\OoTBitRandomizer.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\obj\Debug\OoTBitRaceRandomizer.Form1.resources
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\obj\Debug\GameInputMesser.Properties.Resources.resources
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\obj\Debug\OoTBitRandomizer.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\obj\Debug\OoTBitRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\bin\Debug\OoT Bit Race Randomizer v0.1.exe.config
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\bin\Debug\OoT Bit Race Randomizer v0.1.exe
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\bin\Debug\OoT Bit Race Randomizer v0.1.pdb
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\obj\Debug\OoT Bit Race Randomizer v0.1.exe
+C:\Users\Brian\Desktop\OoT-Randomizer-master\PhantomBot-2.4.2\OoT-Bit-Randomizer-master\OoTBitRandomizer\obj\Debug\OoT Bit Race Randomizer v0.1.pdb
